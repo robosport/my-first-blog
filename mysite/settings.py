@@ -24,7 +24,7 @@ SECRET_KEY = '2+1g*i1a&qfu=h9p*ew0vw&zp1-nr4!dpm(!u4e^5g*exaa!gt'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = ['127.0.0.1','pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','pythonanywhere.com','robosport.pythonanywhere.com']
 
 
 # Application definition
